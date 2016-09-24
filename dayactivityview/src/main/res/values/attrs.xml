@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="DayActivityView">
+        <attr name="enabledColor"  format="color" />
+        <attr name="disabledColor"  format="color" />
+        <attr name="arcSize" format="integer"/>
+        <attr name="strokeSize" format="float"/>
+    </declare-styleable>
+</resources>
